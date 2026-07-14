@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "سجلات نشاط المسؤول"
+
+msgid "All Users"
+msgstr "جميع المستخدمين"
+
+msgid "All Events"
+msgstr "جميع الأحداث"
+
+msgid "All Objects"
+msgstr "جميع الكائنات"
+
+msgid "Search..."
+msgstr "بحث..."
+
+msgid "Filter"
+msgstr "تصفية"
+
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+msgid "Export CSV"
+msgstr "تصدير CSV"
+
+msgid "Clear Logs"
+msgstr "مسح السجلات"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "No activity logs found."
+msgstr "لم يتم العثور على سجلات نشاط."
+
+msgid "Date"
+msgstr "التاريخ"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "Event"
+msgstr "الحدث"
+
+msgid "Object"
+msgstr "الكائن"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "IP"
+msgstr "عنوان IP"
+
+msgid "Actions"
+msgstr "الإجراءات"
+
+msgid "View"
+msgstr "عرض"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "هل أنت متأكد من رغبتك في حذف هذا السجل؟"
+
+msgid "(system)"
+msgstr "(النظام)"
+
+msgid "Log #%d Detail"
+msgstr "تفاصيل السجل رقم %d"
+
+msgid "Delete this Log Entry"
+msgstr "حذف هذا السجل"
+
+msgid "Date/Time"
+msgstr "التاريخ/الوقت"
+
+msgid "Event Type"
+msgstr "نوع الحدث"
+
+msgid "Object ID"
+msgstr "معرف الكائن"
+
+msgid "Object Title"
+msgstr "عنوان الكائن"
+
+msgid "Action"
+msgstr "الإجراء"
+
+msgid "Old Value"
+msgstr "القيمة السابقة"
+
+msgid "New Value"
+msgstr "القيمة الجديدة"
+
+msgid "IP Address"
+msgstr "عنوان IP"
+
+msgid "User Agent"
+msgstr "وكيل المستخدم"
+
+msgid "Request URL"
+msgstr "رابط الطلب"
+
+msgid "[hidden]"
+msgstr "[مخفي]"
+
+msgid "Post Created"
+msgstr "تم إنشاء المقال"
+
+msgid "Post Updated"
+msgstr "تم تحديث المقال"
+
+msgid "Post Trashed"
+msgstr "تم نقل المقال إلى المهملات"
+
+msgid "Post Restored"
+msgstr "تم استعادة المقال"
+
+msgid "Post Deleted"
+msgstr "تم حذف المقال نهائياً"
+
+msgid "Page Created"
+msgstr "تم إنشاء الصفحة"
+
+msgid "Page Updated"
+msgstr "تم تحديث الصفحة"
+
+msgid "Page Trashed"
+msgstr "تم نقل الصفحة إلى المهملات"
+
+msgid "Page Restored"
+msgstr "تم استعادة الصفحة"
+
+msgid "Page Deleted"
+msgstr "تم حذف الصفحة نهائياً"
+
+msgid "Plugin Activated"
+msgstr "تم تفعيل الإضافة"
+
+msgid "Plugin Deactivated"
+msgstr "تم تعطيل الإضافة"
+
+msgid "User Created"
+msgstr "تم إنشاء المستخدم"
+
+msgid "User Deleted"
+msgstr "تم حذف المستخدم"
+
+msgid "Settings Updated"
+msgstr "تم تحديث الإعدادات"
+
+msgid "Media Uploaded"
+msgstr "تم رفع الوسائط"
+
+msgid "Media Deleted"
+msgstr "تم حذف الوسائط"
+
+msgid "Just now"
+msgstr "الآن"
+
+msgid "Activity Logs"
+msgstr "سجلات النشاط"
+
+msgid "Activity Logger Settings"
+msgstr "إعدادات سجل النشاط"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Log post create/update/delete"
+msgstr "تسجيل إنشاء/تحديث/حذف المقالات"
+
+msgid "Log page create/update/delete"
+msgstr "تسجيل إنشاء/تحديث/حذف الصفحات"
+
+msgid "Log plugin activation/deactivation"
+msgstr "تسجيل تفعيل/تعطيل الإضافات"
+
+msgid "Log user registration/deletion"
+msgstr "تسجيل إنشاء/حذف المستخدمين"
+
+msgid "Log media upload/deletion"
+msgstr "تسجيل رفع/حذف الوسائط"
+
+msgid "Log general settings updates"
+msgstr "تسجيل تحديثات الإعدادات العامة"
+
+msgid "Keep logs for (days)"
+msgstr "الاحتفاظ بالسجلات لمدة (أيام)"
+
+msgid "General Logging"
+msgstr "التسجيل العام"
+
+msgid "Anonymize IP Addresses"
+msgstr "إخفاء هوية عناوين IP"
+
+msgid "Enable Admin Activity Logger"
+msgstr "تفعيل سجل نشاط المسؤول"
+
+msgid "Store IP Addresses"
+msgstr "حفظ عناوين IP"
+
+msgid "Store User Agent"
+msgstr "حفظ وكيل المستخدم"
+
+msgid "Show Dashboard Widget"
+msgstr "إظهار ودجت لوحة التحكم"
+
+msgid "Save Settings"
+msgstr "حفظ الإعدادات"
+
+msgid "Display"
+msgstr "العرض"
+
+msgid "Logging"
+msgstr "التسجيل"
+
+msgid "Auto Cleanup"
+msgstr "التنظيف التلقائي"
+
+msgid "Keep logs for"
+msgstr "الاحتفاظ بالسجلات لمدة"
+
+msgid "Forever"
+msgstr "للأبد"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "تم تفعيل الإضافة \"%s\"."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "تم تعطيل الإضافة \"%s\"."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "تم رفع الوسائط \"%1$s\" (%2$s)."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "تم حذف الوسائط \"%1$s\" (%2$s)."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "تم إنشاء المستخدم \"%1$s\" (%2$s)."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "تم حذف المستخدم \"%1$s\" (%2$s)."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "تم إنشاء %1$s \"%2$s\"."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "تم نقل %1$s \"%2$s\" إلى المهملات."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "تم استعادة %1$s \"%2$s\" من المهملات."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "تم تحديث %1$s \"%2$s\"."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "تم حذف %1$s \"%2$s\" نهائياً."
+
+msgid "Option \"%s\" was changed."
+msgstr "تم تغيير الخيار \"%s\"."
+
+msgid "Option \"%s\" was set."
+msgstr "تم تعيين الخيار \"%s\"."
+
+msgid "Multiple options were changed: %s."
+msgstr "تم تغيير خيارات متعددة: %s."
+
+msgid "Bulk created"
+msgstr "إنشاء جماعي"
+
+msgid "Bulk updated"
+msgstr "تحديث جماعي"
+
+msgid "Bulk moved to trash"
+msgstr "نقل جماعي للمهملات"
+
+msgid "Bulk restored from trash"
+msgstr "استعادة جماعية من المهملات"
+
+msgid "Bulk permanently deleted"
+msgstr "حذف جماعي نهائي"
+
+msgid "Bulk activated"
+msgstr "تفعيل جماعي"
+
+msgid "Bulk deactivated"
+msgstr "تعطيل جماعي"
+
+msgid "Bulk uploaded"
+msgstr "رفع جماعي"
+
+msgid "Bulk action performed on"
+msgstr "تم إجراء عملية جماعية على"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "مقال"
+msgstr[1] "مقالات"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "صفحة"
+msgstr[1] "صفحات"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "إضافة"
+msgstr[1] "إضافات"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "مستخدم"
+msgstr[1] "مستخدمين"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "عنصر وسائط"
+msgstr[1] "عناصر وسائط"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "%s متعددة"
+
+msgid "Changes Detail"
+msgstr "تفاصيل التغييرات"
+
+msgid "Field"
+msgstr "الحقل"
+
+msgid "Before"
+msgstr "قبل"
+
+msgid "After"
+msgstr "بعد"
+
+msgid "None"
+msgstr "بلا"
+
+msgid "Categories"
+msgstr "التصنيفات"
+
+msgid "Tags"
+msgstr "الوسوم"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Confirm Deletion"
+msgstr "تأكيد الحذف"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "تم حذف %d سجل."
+msgstr[1] "تم حذف %d سجل."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "تم العثور على سجل %d"
+msgstr[1] "تم العثور على %d سجلات"
+

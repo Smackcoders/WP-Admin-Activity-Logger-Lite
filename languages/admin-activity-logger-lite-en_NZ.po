@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_NZ\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "Admin Activity Logs"
+
+msgid "All Users"
+msgstr "All Users"
+
+msgid "All Events"
+msgstr "All Events"
+
+msgid "All Objects"
+msgstr "All Objects"
+
+msgid "Search..."
+msgstr "Search..."
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Export CSV"
+msgstr "Export CSV"
+
+msgid "Clear Logs"
+msgstr "Clear Logs"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "No activity logs found."
+msgstr "No activity logs found."
+
+msgid "Date"
+msgstr "Date"
+
+msgid "User"
+msgstr "User"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Object"
+msgstr "Object"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "View"
+msgstr "View"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "Are you sure you want to delete this log entry?"
+
+msgid "(system)"
+msgstr "(system)"
+
+msgid "Log #%d Detail"
+msgstr "Log #%d Detail"
+
+msgid "Delete this Log Entry"
+msgstr "Delete this Log Entry"
+
+msgid "Date/Time"
+msgstr "Date/Time"
+
+msgid "Event Type"
+msgstr "Event Type"
+
+msgid "Object ID"
+msgstr "Object ID"
+
+msgid "Object Title"
+msgstr "Object Title"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Old Value"
+msgstr "Old Value"
+
+msgid "New Value"
+msgstr "New Value"
+
+msgid "IP Address"
+msgstr "IP Address"
+
+msgid "User Agent"
+msgstr "User Agent"
+
+msgid "Request URL"
+msgstr "Request URL"
+
+msgid "[hidden]"
+msgstr "[hidden]"
+
+msgid "Post Created"
+msgstr "Post Created"
+
+msgid "Post Updated"
+msgstr "Post Updated"
+
+msgid "Post Trashed"
+msgstr "Post Trashed"
+
+msgid "Post Restored"
+msgstr "Post Restored"
+
+msgid "Post Deleted"
+msgstr "Post Deleted"
+
+msgid "Page Created"
+msgstr "Page Created"
+
+msgid "Page Updated"
+msgstr "Page Updated"
+
+msgid "Page Trashed"
+msgstr "Page Trashed"
+
+msgid "Page Restored"
+msgstr "Page Restored"
+
+msgid "Page Deleted"
+msgstr "Page Deleted"
+
+msgid "Plugin Activated"
+msgstr "Plugin Activated"
+
+msgid "Plugin Deactivated"
+msgstr "Plugin Deactivated"
+
+msgid "User Created"
+msgstr "User Created"
+
+msgid "User Deleted"
+msgstr "User Deleted"
+
+msgid "Settings Updated"
+msgstr "Settings Updated"
+
+msgid "Media Uploaded"
+msgstr "Media Uploaded"
+
+msgid "Media Deleted"
+msgstr "Media Deleted"
+
+msgid "Just now"
+msgstr "Just now"
+
+msgid "Activity Logs"
+msgstr "Activity Logs"
+
+msgid "Activity Logger Settings"
+msgstr "Activity Logger Settings"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Log post create/update/delete"
+msgstr "Log post create/update/delete"
+
+msgid "Log page create/update/delete"
+msgstr "Log page create/update/delete"
+
+msgid "Log plugin activation/deactivation"
+msgstr "Log plugin activation/deactivation"
+
+msgid "Log user registration/deletion"
+msgstr "Log user registration/deletion"
+
+msgid "Log media upload/deletion"
+msgstr "Log media upload/deletion"
+
+msgid "Log general settings updates"
+msgstr "Log general settings updates"
+
+msgid "Keep logs for (days)"
+msgstr "Keep logs for (days)"
+
+msgid "General Logging"
+msgstr "General Logging"
+
+msgid "Anonymize IP Addresses"
+msgstr "Anonymize IP Addresses"
+
+msgid "Enable Admin Activity Logger"
+msgstr "Enable Admin Activity Logger"
+
+msgid "Store IP Addresses"
+msgstr "Store IP Addresses"
+
+msgid "Store User Agent"
+msgstr "Store User Agent"
+
+msgid "Show Dashboard Widget"
+msgstr "Show Dashboard Widget"
+
+msgid "Save Settings"
+msgstr "Save Settings"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Logging"
+msgstr "Logging"
+
+msgid "Auto Cleanup"
+msgstr "Auto Cleanup"
+
+msgid "Keep logs for"
+msgstr "Keep logs for"
+
+msgid "Forever"
+msgstr "Forever"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "Plugin \"%s\" was activated."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "Plugin \"%s\" was deactivated."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "Media \"%1$s\" (%2$s) was uploaded."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "Media \"%1$s\" (%2$s) was deleted."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "User \"%1$s\" (%2$s) was created."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "User \"%1$s\" (%2$s) was deleted."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" was created."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" was moved to trash."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" was restored from trash."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" was updated."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" was permanently deleted."
+
+msgid "Option \"%s\" was changed."
+msgstr "Option \"%s\" was changed."
+
+msgid "Option \"%s\" was set."
+msgstr "Option \"%s\" was set."
+
+msgid "Multiple options were changed: %s."
+msgstr "Multiple options were changed: %s."
+
+msgid "Bulk created"
+msgstr "Bulk created"
+
+msgid "Bulk updated"
+msgstr "Bulk updated"
+
+msgid "Bulk moved to trash"
+msgstr "Bulk moved to trash"
+
+msgid "Bulk restored from trash"
+msgstr "Bulk restored from trash"
+
+msgid "Bulk permanently deleted"
+msgstr "Bulk permanently deleted"
+
+msgid "Bulk activated"
+msgstr "Bulk activated"
+
+msgid "Bulk deactivated"
+msgstr "Bulk deactivated"
+
+msgid "Bulk uploaded"
+msgstr "Bulk uploaded"
+
+msgid "Bulk action performed on"
+msgstr "Bulk action performed on"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "post"
+msgstr[1] "posts"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "page"
+msgstr[1] "pages"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "plugin"
+msgstr[1] "plugins"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "user"
+msgstr[1] "users"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "media item"
+msgstr[1] "media items"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "Multiple %s"
+
+msgid "Changes Detail"
+msgstr "Changes Detail"
+
+msgid "Field"
+msgstr "Field"
+
+msgid "Before"
+msgstr "Before"
+
+msgid "After"
+msgstr "After"
+
+msgid "None"
+msgstr "None"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Confirm Deletion"
+msgstr "Confirm Deletion"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d log deleted."
+msgstr[1] "%d logs deleted."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d log found"
+msgstr[1] "%d logs found"
+

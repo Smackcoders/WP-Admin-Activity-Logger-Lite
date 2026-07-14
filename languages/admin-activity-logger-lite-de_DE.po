@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "Aktivitätsprotokolle für Administratoren"
+
+msgid "All Users"
+msgstr "Alle Benutzer"
+
+msgid "All Events"
+msgstr "Alle Ereignisse"
+
+msgid "All Objects"
+msgstr "Alle Objekte"
+
+msgid "Search..."
+msgstr "Suchen..."
+
+msgid "Filter"
+msgstr "Filtern"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Export CSV"
+msgstr "CSV exportieren"
+
+msgid "Clear Logs"
+msgstr "Protokolle löschen"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "No activity logs found."
+msgstr "Keine Aktivitätsprotokolle gefunden."
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "Event"
+msgstr "Ereignis"
+
+msgid "Object"
+msgstr "Objekt"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "View"
+msgstr "Ansehen"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "Sind Sie sicher, dass Sie diesen Protokolleintrag löschen möchten?"
+
+msgid "(system)"
+msgstr "(System)"
+
+msgid "Log #%d Detail"
+msgstr "Protokoll #%d Detail"
+
+msgid "Delete this Log Entry"
+msgstr "Diesen Protokolleintrag löschen"
+
+msgid "Date/Time"
+msgstr "Datum/Uhrzeit"
+
+msgid "Event Type"
+msgstr "Ereignistyp"
+
+msgid "Object ID"
+msgstr "Objekt-ID"
+
+msgid "Object Title"
+msgstr "Objekttitel"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Old Value"
+msgstr "Alter Wert"
+
+msgid "New Value"
+msgstr "Neuer Wert"
+
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+msgid "User Agent"
+msgstr "User Agent"
+
+msgid "Request URL"
+msgstr "Anfrage-URL"
+
+msgid "[hidden]"
+msgstr "[versteckt]"
+
+msgid "Post Created"
+msgstr "Beitrag erstellt"
+
+msgid "Post Updated"
+msgstr "Beitrag aktualisiert"
+
+msgid "Post Trashed"
+msgstr "Beitrag in Papierkorb verschoben"
+
+msgid "Post Restored"
+msgstr "Beitrag wiederhergestellt"
+
+msgid "Post Deleted"
+msgstr "Beitrag dauerhaft gelöscht"
+
+msgid "Page Created"
+msgstr "Seite erstellt"
+
+msgid "Page Updated"
+msgstr "Seite aktualisiert"
+
+msgid "Page Trashed"
+msgstr "Seite in Papierkorb verschoben"
+
+msgid "Page Restored"
+msgstr "Seite wiederhergestellt"
+
+msgid "Page Deleted"
+msgstr "Seite dauerhaft gelöscht"
+
+msgid "Plugin Activated"
+msgstr "Plugin aktiviert"
+
+msgid "Plugin Deactivated"
+msgstr "Plugin deaktiviert"
+
+msgid "User Created"
+msgstr "Benutzer erstellt"
+
+msgid "User Deleted"
+msgstr "Benutzer gelöscht"
+
+msgid "Settings Updated"
+msgstr "Einstellungen aktualisiert"
+
+msgid "Media Uploaded"
+msgstr "Medien hochgeladen"
+
+msgid "Media Deleted"
+msgstr "Medien gelöscht"
+
+msgid "Just now"
+msgstr "Gerade eben"
+
+msgid "Activity Logs"
+msgstr "Aktivitätsprotokolle"
+
+msgid "Activity Logger Settings"
+msgstr "Einstellungen des Aktivitätsprotokolls"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Log post create/update/delete"
+msgstr "Beitragserstellung/-aktualisierung/-löschung protokollieren"
+
+msgid "Log page create/update/delete"
+msgstr "Seitenerstellung/-aktualisierung/-löschung protokollieren"
+
+msgid "Log plugin activation/deactivation"
+msgstr "Plugin-Aktivierung/-Deaktivierung protokollieren"
+
+msgid "Log user registration/deletion"
+msgstr "Benutzerregistrierung/-löschung protokollieren"
+
+msgid "Log media upload/deletion"
+msgstr "Medien-Upload/-Löschung protokollieren"
+
+msgid "Log general settings updates"
+msgstr "Aktualisierungen allgemeiner Einstellungen protokollieren"
+
+msgid "Keep logs for (days)"
+msgstr "Protokolle aufbewahren für (Tage)"
+
+msgid "General Logging"
+msgstr "Allgemeine Protokollierung"
+
+msgid "Anonymize IP Addresses"
+msgstr "IP-Adressen anonymisieren"
+
+msgid "Enable Admin Activity Logger"
+msgstr "Aktivitätsprotokoll aktivieren"
+
+msgid "Store IP Addresses"
+msgstr "IP-Adressen speichern"
+
+msgid "Store User Agent"
+msgstr "User-Agent speichern"
+
+msgid "Show Dashboard Widget"
+msgstr "Dashboard-Widget anzeigen"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+msgid "Display"
+msgstr "Anzeige"
+
+msgid "Logging"
+msgstr "Protokollierung"
+
+msgid "Auto Cleanup"
+msgstr "Automatische Bereinigung"
+
+msgid "Keep logs for"
+msgstr "Protokolle aufbewahren für"
+
+msgid "Forever"
+msgstr "Immer"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "Plugin \"%s\" wurde aktiviert."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "Plugin \"%s\" wurde deaktiviert."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "Medien \"%1$s\" (%2$s) wurden hochgeladen."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "Medien \"%1$s\" (%2$s) wurden gelöscht."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "Benutzer \"%1$s\" (%2$s) wurde erstellt."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "Benutzer \"%1$s\" (%2$s) wurde gelöscht."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" wurde erstellt."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" wurde in den Papierkorb verschoben."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" wurde aus dem Papierkorb wiederhergestellt."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" wurde aktualisiert."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" wurde dauerhaft gelöscht."
+
+msgid "Option \"%s\" was changed."
+msgstr "Option \"%s\" wurde geändert."
+
+msgid "Option \"%s\" was set."
+msgstr "Option \"%s\" wurde gesetzt."
+
+msgid "Multiple options were changed: %s."
+msgstr "Mehrere Optionen wurden geändert: %s."
+
+msgid "Bulk created"
+msgstr "Mehrfacherstellung"
+
+msgid "Bulk updated"
+msgstr "Mehrfachaktualisierung"
+
+msgid "Bulk moved to trash"
+msgstr "Mehrfach in den Papierkorb verschoben"
+
+msgid "Bulk restored from trash"
+msgstr "Mehrfach aus dem Papierkorb wiederhergestellt"
+
+msgid "Bulk permanently deleted"
+msgstr "Mehrfach dauerhaft gelöscht"
+
+msgid "Bulk activated"
+msgstr "Mehrfach aktiviert"
+
+msgid "Bulk deactivated"
+msgstr "Mehrfach deaktiviert"
+
+msgid "Bulk uploaded"
+msgstr "Mehrfach hochgeladen"
+
+msgid "Bulk action performed on"
+msgstr "Mehrfachaktion durchgeführt auf"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "Beitrag"
+msgstr[1] "Beiträge"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "Seite"
+msgstr[1] "Seiten"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "Plugin"
+msgstr[1] "Plugins"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "Benutzer"
+msgstr[1] "Benutzer"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "Mediendatei"
+msgstr[1] "Mediendateien"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "Mehrere %s"
+
+msgid "Changes Detail"
+msgstr "Änderungsdetails"
+
+msgid "Field"
+msgstr "Feld"
+
+msgid "Before"
+msgstr "Vorher"
+
+msgid "After"
+msgstr "Nachher"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Tags"
+msgstr "Schlagwörter"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Confirm Deletion"
+msgstr "Löschen bestätigen"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d Protokoll gelöscht."
+msgstr[1] "%d Protokolle gelöscht."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d Protokoll gefunden"
+msgstr[1] "%d Protokolle gefunden"
+

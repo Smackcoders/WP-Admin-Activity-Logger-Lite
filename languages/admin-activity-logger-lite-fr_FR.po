@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "Journaux d\'activité de l\'administrateur"
+
+msgid "All Users"
+msgstr "Tous les utilisateurs"
+
+msgid "All Events"
+msgstr "Tous les événements"
+
+msgid "All Objects"
+msgstr "Tous les objets"
+
+msgid "Search..."
+msgstr "Rechercher..."
+
+msgid "Filter"
+msgstr "Filtrer"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Export CSV"
+msgstr "Exporter en CSV"
+
+msgid "Clear Logs"
+msgstr "Effacer les journaux"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "No activity logs found."
+msgstr "Aucun journal d\'activité trouvé."
+
+msgid "Date"
+msgstr "Date"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Event"
+msgstr "Événement"
+
+msgid "Object"
+msgstr "Objet"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "Voulez-vous vraiment supprimer cette entrée de journal ?"
+
+msgid "(system)"
+msgstr "(système)"
+
+msgid "Log #%d Detail"
+msgstr "Détail du journal #%d"
+
+msgid "Delete this Log Entry"
+msgstr "Supprimer cette entrée de journal"
+
+msgid "Date/Time"
+msgstr "Date/Heure"
+
+msgid "Event Type"
+msgstr "Type d\'événement"
+
+msgid "Object ID"
+msgstr "ID de l\'objet"
+
+msgid "Object Title"
+msgstr "Titre de l\'objet"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Old Value"
+msgstr "Ancienne valeur"
+
+msgid "New Value"
+msgstr "Nouvelle valeur"
+
+msgid "IP Address"
+msgstr "Adresse IP"
+
+msgid "User Agent"
+msgstr "Agent utilisateur"
+
+msgid "Request URL"
+msgstr "URL de la requête"
+
+msgid "[hidden]"
+msgstr "[masqué]"
+
+msgid "Post Created"
+msgstr "Article créé"
+
+msgid "Post Updated"
+msgstr "Article mis à jour"
+
+msgid "Post Trashed"
+msgstr "Article mis à la corbeille"
+
+msgid "Post Restored"
+msgstr "Article restauré"
+
+msgid "Post Deleted"
+msgstr "Article supprimé définitivement"
+
+msgid "Page Created"
+msgstr "Page créée"
+
+msgid "Page Updated"
+msgstr "Page mise à jour"
+
+msgid "Page Trashed"
+msgstr "Page mise à la corbeille"
+
+msgid "Page Restored"
+msgstr "Page restaurée"
+
+msgid "Page Deleted"
+msgstr "Page supprimée définitivement"
+
+msgid "Plugin Activated"
+msgstr "Extension activée"
+
+msgid "Plugin Deactivated"
+msgstr "Extension désactivée"
+
+msgid "User Created"
+msgstr "Utilisateur créé"
+
+msgid "User Deleted"
+msgstr "Utilisateur supprimé"
+
+msgid "Settings Updated"
+msgstr "Réglages mis à jour"
+
+msgid "Media Uploaded"
+msgstr "Média téléversé"
+
+msgid "Media Deleted"
+msgstr "Média supprimé"
+
+msgid "Just now"
+msgstr "À l\'instant"
+
+msgid "Activity Logs"
+msgstr "Journaux d\'activité"
+
+msgid "Activity Logger Settings"
+msgstr "Réglages du journal d\'activité"
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Log post create/update/delete"
+msgstr "Enregistrer création/mise à jour/suppression d\'articles"
+
+msgid "Log page create/update/delete"
+msgstr "Enregistrer création/mise à jour/suppression de pages"
+
+msgid "Log plugin activation/deactivation"
+msgstr "Enregistrer activation/désactivation d\'extensions"
+
+msgid "Log user registration/deletion"
+msgstr "Enregistrer inscription/suppression d\'utilisateurs"
+
+msgid "Log media upload/deletion"
+msgstr "Enregistrer téléversement/suppression de médias"
+
+msgid "Log general settings updates"
+msgstr "Enregistrer mises à jour des réglages généraux"
+
+msgid "Keep logs for (days)"
+msgstr "Conserver les journaux pendant (jours)"
+
+msgid "General Logging"
+msgstr "Journalisation générale"
+
+msgid "Anonymize IP Addresses"
+msgstr "Anonymiser les adresses IP"
+
+msgid "Enable Admin Activity Logger"
+msgstr "Activer le journal d\'activité"
+
+msgid "Store IP Addresses"
+msgstr "Enregistrer les adresses IP"
+
+msgid "Store User Agent"
+msgstr "Enregistrer l\'agent utilisateur"
+
+msgid "Show Dashboard Widget"
+msgstr "Afficher le widget du tableau de bord"
+
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+msgid "Display"
+msgstr "Affichage"
+
+msgid "Logging"
+msgstr "Journalisation"
+
+msgid "Auto Cleanup"
+msgstr "Nettoyage automatique"
+
+msgid "Keep logs for"
+msgstr "Conserver les journaux pendant"
+
+msgid "Forever"
+msgstr "Toujours"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "L\'extension \"%s\" a été activée."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "L\'extension \"%s\" a été désactivée."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "Le média \"%1$s\" (%2$s) a été téléversé."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "Le média \"%1$s\" (%2$s) a été supprimé."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "L\'utilisateur \"%1$s\" (%2$s) a été créé."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "L\'utilisateur \"%1$s\" (%2$s) a été supprimé."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" a été créé."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" a été mis à la corbeille."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" a été restauré de la corbeille."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" a été mis à jour."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" a été supprimé définitivement."
+
+msgid "Option \"%s\" was changed."
+msgstr "L\'option \"%s\" a été modifiée."
+
+msgid "Option \"%s\" was set."
+msgstr "L\'option \"%s\" a été définie."
+
+msgid "Multiple options were changed: %s."
+msgstr "Plusieurs options ont été modifiées: %s."
+
+msgid "Bulk created"
+msgstr "Création groupée"
+
+msgid "Bulk updated"
+msgstr "Mise à jour groupée"
+
+msgid "Bulk moved to trash"
+msgstr "Mise à la corbeille groupée"
+
+msgid "Bulk restored from trash"
+msgstr "Restauration groupée depuis la corbeille"
+
+msgid "Bulk permanently deleted"
+msgstr "Suppression définitive groupée"
+
+msgid "Bulk activated"
+msgstr "Activation groupée"
+
+msgid "Bulk deactivated"
+msgstr "Désactivation groupée"
+
+msgid "Bulk uploaded"
+msgstr "Téléversement groupé"
+
+msgid "Bulk action performed on"
+msgstr "Action groupée effectuée sur"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "article"
+msgstr[1] "articles"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "page"
+msgstr[1] "pages"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "extension"
+msgstr[1] "extensions"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "utilisateur"
+msgstr[1] "utilisateurs"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "élément média"
+msgstr[1] "éléments média"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "Plusieurs %s"
+
+msgid "Changes Detail"
+msgstr "Détails des modifications"
+
+msgid "Field"
+msgstr "Champ"
+
+msgid "Before"
+msgstr "Avant"
+
+msgid "After"
+msgstr "Après"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Tags"
+msgstr "Étiquettes"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Confirm Deletion"
+msgstr "Confirmer la suppression"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d journal supprimé."
+msgstr[1] "%d journaux supprimés."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d journal trouvé"
+msgstr[1] "%d journaux trouvés"
+

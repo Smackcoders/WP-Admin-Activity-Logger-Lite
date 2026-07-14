@@ -1,0 +1,14 @@
+{
+    "name": "smackcoders/admin-activity-logger-lite",
+    "description": "Admin Activity Logger Lite WordPress Plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": { "php": ">=7.4" },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "wp-phpunit/wp-phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": { "Smackcoders\\AdminActivityLogger\\": "includes/" }
+    }
+}

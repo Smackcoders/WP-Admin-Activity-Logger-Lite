@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "Yönetici Etkinlik Günlükleri"
+
+msgid "All Users"
+msgstr "Tüm Kullanıcılar"
+
+msgid "All Events"
+msgstr "Tüm Etkinlikler"
+
+msgid "All Objects"
+msgstr "Tüm Nesneler"
+
+msgid "Search..."
+msgstr "Ara..."
+
+msgid "Filter"
+msgstr "Filtrele"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "Export CSV"
+msgstr "CSV Dışa Aktar"
+
+msgid "Clear Logs"
+msgstr "Günlükleri Temizle"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "No activity logs found."
+msgstr "Etkinlik günlüğü bulunamadı."
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "Event"
+msgstr "Etkinlik"
+
+msgid "Object"
+msgstr "Nesne"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Actions"
+msgstr "İşlemler"
+
+msgid "View"
+msgstr "Görüntüle"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "Bu günlük kaydını silmek istediğinizden emin misiniz?"
+
+msgid "(system)"
+msgstr "(sistem)"
+
+msgid "Log #%d Detail"
+msgstr "Günlük #%d Ayrıntısı"
+
+msgid "Delete this Log Entry"
+msgstr "Bu Günlük Kaydını Sil"
+
+msgid "Date/Time"
+msgstr "Tarih/Saat"
+
+msgid "Event Type"
+msgstr "Etkinlik Türü"
+
+msgid "Object ID"
+msgstr "Nesne ID"
+
+msgid "Object Title"
+msgstr "Nesne Başlığı"
+
+msgid "Action"
+msgstr "İşlem"
+
+msgid "Old Value"
+msgstr "Eski Değer"
+
+msgid "New Value"
+msgstr "Yeni Değer"
+
+msgid "IP Address"
+msgstr "IP Adresi"
+
+msgid "User Agent"
+msgstr "Tarayıcı Bilgisi"
+
+msgid "Request URL"
+msgstr "İstek URL\'si"
+
+msgid "[hidden]"
+msgstr "[gizli]"
+
+msgid "Post Created"
+msgstr "Yazı Oluşturuldu"
+
+msgid "Post Updated"
+msgstr "Yazı Güncellendi"
+
+msgid "Post Trashed"
+msgstr "Yazı Çöpe Taşındı"
+
+msgid "Post Restored"
+msgstr "Yazı Geri Yüklendi"
+
+msgid "Post Deleted"
+msgstr "Yazı Kalıcı Olarak Silindi"
+
+msgid "Page Created"
+msgstr "Sayfa Oluşturuldu"
+
+msgid "Page Updated"
+msgstr "Sayfa Güncellendi"
+
+msgid "Page Trashed"
+msgstr "Sayfa Çöpe Taşındı"
+
+msgid "Page Restored"
+msgstr "Sayfa Geri Yüklendi"
+
+msgid "Page Deleted"
+msgstr "Sayfa Kalıcı Olarak Silindi"
+
+msgid "Plugin Activated"
+msgstr "Eklenti Etkinleştirildi"
+
+msgid "Plugin Deactivated"
+msgstr "Eklenti Devre Dışı Bırakıldı"
+
+msgid "User Created"
+msgstr "Kullanıcı Oluşturuldu"
+
+msgid "User Deleted"
+msgstr "Kullanıcı Silindi"
+
+msgid "Settings Updated"
+msgstr "Ayarlar Güncellendi"
+
+msgid "Media Uploaded"
+msgstr "Ortam Yüklendi"
+
+msgid "Media Deleted"
+msgstr "Ortam Silindi"
+
+msgid "Just now"
+msgstr "Az önce"
+
+msgid "Activity Logs"
+msgstr "Etkinlik Günlükleri"
+
+msgid "Activity Logger Settings"
+msgstr "Etkinlik Günlüğü Ayarları"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Log post create/update/delete"
+msgstr "Yazı oluşturma/güncelleme/silme kayıtlarını tut"
+
+msgid "Log page create/update/delete"
+msgstr "Sayfa oluşturma/güncelleme/silme kayıtlarını tut"
+
+msgid "Log plugin activation/deactivation"
+msgstr "Eklenti etkinleştirme/devre dışı bırakma kayıtlarını tut"
+
+msgid "Log user registration/deletion"
+msgstr "Kullanıcı kayıt/silme kayıtlarını tut"
+
+msgid "Log media upload/deletion"
+msgstr "Ortam yükleme/silme kayıtlarını tut"
+
+msgid "Log general settings updates"
+msgstr "Genel ayar güncellemelerinin kayıtlarını tut"
+
+msgid "Keep logs for (days)"
+msgstr "Günlükleri saklama süresi (gün)"
+
+msgid "General Logging"
+msgstr "Genel Kayıtlar"
+
+msgid "Anonymize IP Addresses"
+msgstr "IP Adreslerini Anonimleştir"
+
+msgid "Enable Admin Activity Logger"
+msgstr "Yönetici Etkinlik Günlüğünü Etkinleştir"
+
+msgid "Store IP Addresses"
+msgstr "IP Adreslerini Kaydet"
+
+msgid "Store User Agent"
+msgstr "Tarayıcı Bilgisini Kaydet"
+
+msgid "Show Dashboard Widget"
+msgstr "Başlangıç Paneli Penceresini Göster"
+
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+msgid "Display"
+msgstr "Görünüm"
+
+msgid "Logging"
+msgstr "Günlük Tutma"
+
+msgid "Auto Cleanup"
+msgstr "Otomatik Temizlik"
+
+msgid "Keep logs for"
+msgstr "Günlükleri saklama süresi"
+
+msgid "Forever"
+msgstr "Sonsuza kadar"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "\"%s\" eklentisi etkinleştirildi."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "\"%s\" eklentisi devre dışı bırakıldı."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "\"%1$s\" (%2$s) ortamı yüklendi."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "\"%1$s\" (%2$s) ortamı silindi."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "\"%1$s\" (%2$s) kullanıcısı oluşturuldu."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "\"%1$s\" (%2$s) kullanıcısı silindi."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" oluşturuldu."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" çöpe taşındı."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" çöpten geri yüklendi."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" güncellendi."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" kalıcı olarak silindi."
+
+msgid "Option \"%s\" was changed."
+msgstr "\"%s\" seçeneği değiştirildi."
+
+msgid "Option \"%s\" was set."
+msgstr "\"%s\" seçeneği ayarlandı."
+
+msgid "Multiple options were changed: %s."
+msgstr "Birden fazla seçenek değiştirildi: %s."
+
+msgid "Bulk created"
+msgstr "Toplu oluşturuldu"
+
+msgid "Bulk updated"
+msgstr "Toplu güncellendi"
+
+msgid "Bulk moved to trash"
+msgstr "Toplu çöpe taşındı"
+
+msgid "Bulk restored from trash"
+msgstr "Toplu çöpten kurtarıldı"
+
+msgid "Bulk permanently deleted"
+msgstr "Toplu kalıcı olarak silindi"
+
+msgid "Bulk activated"
+msgstr "Toplu etkinleştirildi"
+
+msgid "Bulk deactivated"
+msgstr "Toplu devre dışı bırakıldı"
+
+msgid "Bulk uploaded"
+msgstr "Toplu yüklendi"
+
+msgid "Bulk action performed on"
+msgstr "Toplu işlem gerçekleştirildi: "
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "yazı"
+msgstr[1] "yazı"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "sayfa"
+msgstr[1] "sayfa"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "eklenti"
+msgstr[1] "eklenti"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "kullanıcı"
+msgstr[1] "kullanıcı"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "ortam öğesi"
+msgstr[1] "ortam öğesi"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "Birden fazla %s"
+
+msgid "Changes Detail"
+msgstr "Değişiklik Detayları"
+
+msgid "Field"
+msgstr "Alan"
+
+msgid "Before"
+msgstr "Önceki"
+
+msgid "After"
+msgstr "Sonraki"
+
+msgid "None"
+msgstr "Yok"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Tags"
+msgstr "Etiketler"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Confirm Deletion"
+msgstr "Silmeyi Onayla"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d günlük silindi."
+msgstr[1] "%d günlük silindi."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d günlük bulundu"
+msgstr[1] "%d günlük bulundu"
+

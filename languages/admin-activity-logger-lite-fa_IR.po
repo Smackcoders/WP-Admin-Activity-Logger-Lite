@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "سیاهه فعالیت‌های مدیر"
+
+msgid "All Users"
+msgstr "همه کاربران"
+
+msgid "All Events"
+msgstr "همه رویدادها"
+
+msgid "All Objects"
+msgstr "همه شیءها"
+
+msgid "Search..."
+msgstr "جستجو..."
+
+msgid "Filter"
+msgstr "صافی"
+
+msgid "Reset"
+msgstr "بازنشانی"
+
+msgid "Export CSV"
+msgstr "خروجی CSV"
+
+msgid "Clear Logs"
+msgstr "پاک‌سازی سیاهه‌ها"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "No activity logs found."
+msgstr "سیاهه فعالیتی یافت نشd."
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "Event"
+msgstr "رویداد"
+
+msgid "Object"
+msgstr "شیء"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "IP"
+msgstr "آی‌پی"
+
+msgid "Actions"
+msgstr "اقدامات"
+
+msgid "View"
+msgstr "نمایش"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "آیا از حذف این سیاهه مطمئن هستید؟"
+
+msgid "(system)"
+msgstr "(سیستم)"
+
+msgid "Log #%d Detail"
+msgstr "جزئیات سیاهه شماره %d"
+
+msgid "Delete this Log Entry"
+msgstr "حذف این سیاهه"
+
+msgid "Date/Time"
+msgstr "تاریخ/زمان"
+
+msgid "Event Type"
+msgstr "نوع رویداد"
+
+msgid "Object ID"
+msgstr "شناسه شیء"
+
+msgid "Object Title"
+msgstr "عنوان شیء"
+
+msgid "Action"
+msgstr "اقدام"
+
+msgid "Old Value"
+msgstr "مقدار قدیمی"
+
+msgid "New Value"
+msgstr "مقدار جدید"
+
+msgid "IP Address"
+msgstr "نشانی آی‌پی"
+
+msgid "User Agent"
+msgstr "عامل کاربر"
+
+msgid "Request URL"
+msgstr "نشانی درخواست"
+
+msgid "[hidden]"
+msgstr "[پنهان]"
+
+msgid "Post Created"
+msgstr "نوشته ساخته شد"
+
+msgid "Post Updated"
+msgstr "نوشته بروزرسانی شد"
+
+msgid "Post Trashed"
+msgstr "نوشته به زباله‌دان منتقل شد"
+
+msgid "Post Restored"
+msgstr "نوشته بازگردانی شد"
+
+msgid "Post Deleted"
+msgstr "نوشته برای همیشه حذف شد"
+
+msgid "Page Created"
+msgstr "برگه ساخته شد"
+
+msgid "Page Updated"
+msgstr "برگه بروزرسانی شد"
+
+msgid "Page Trashed"
+msgstr "برگه به زباله‌دان منتقل شد"
+
+msgid "Page Restored"
+msgstr "برگه بازگردانی شد"
+
+msgid "Page Deleted"
+msgstr "برگه برای همیشه حذف شد"
+
+msgid "Plugin Activated"
+msgstr "افزونه فعال شد"
+
+msgid "Plugin Deactivated"
+msgstr "افزونه غیرفعال شد"
+
+msgid "User Created"
+msgstr "کاربر ساخته شد"
+
+msgid "User Deleted"
+msgstr "کاربر حذف شد"
+
+msgid "Settings Updated"
+msgstr "تنظیمات بروزرسانی شد"
+
+msgid "Media Uploaded"
+msgstr "رسانه بارگذاری شد"
+
+msgid "Media Deleted"
+msgstr "رسانه حذف شد"
+
+msgid "Just now"
+msgstr "هم‌اکنون"
+
+msgid "Activity Logs"
+msgstr "سیاهه‌های فعالیت"
+
+msgid "Activity Logger Settings"
+msgstr "تنظیمات سیاهه فعالیت"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Log post create/update/delete"
+msgstr "ثبت ساخت/بروزرسانی/حذف نوشته‌ها"
+
+msgid "Log page create/update/delete"
+msgstr "ثبت ساخت/بروزرسانی/حذف برگه‌ها"
+
+msgid "Log plugin activation/deactivation"
+msgstr "ثبت فعال/غیرفعال‌سازی افزونه‌ها"
+
+msgid "Log user registration/deletion"
+msgstr "ثبت ثبت‌نام/حذف کاربران"
+
+msgid "Log media upload/deletion"
+msgstr "ثبت بارگذاری/حذف رسانه‌ها"
+
+msgid "Log general settings updates"
+msgstr "ثبت بروزرسانی‌های تنظیمات عمومی"
+
+msgid "Keep logs for (days)"
+msgstr "نگهداری سیاهه‌ها برای (روز)"
+
+msgid "General Logging"
+msgstr "ثبت عمومی"
+
+msgid "Anonymize IP Addresses"
+msgstr "ناشناس‌سازی نشانی‌های آی‌پی"
+
+msgid "Enable Admin Activity Logger"
+msgstr "فعال‌سازی سیاهه فعالیت مدیر"
+
+msgid "Store IP Addresses"
+msgstr "ذخیره نشانی‌های آی‌پی"
+
+msgid "Store User Agent"
+msgstr "ذخیره عامل کاربر"
+
+msgid "Show Dashboard Widget"
+msgstr "نمایش ابزارک پیشخوان"
+
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+msgid "Display"
+msgstr "نمایش"
+
+msgid "Logging"
+msgstr "ثبت رویداد"
+
+msgid "Auto Cleanup"
+msgstr "پاک‌سازی خودکار"
+
+msgid "Keep logs for"
+msgstr "نگهداری سیاهه‌ها برای"
+
+msgid "Forever"
+msgstr "برای همیشه"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "افزونه \"%s\" فعال شد."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "افزونه \"%s\" غیرفعال شد."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "رسانه \"%1$s\" (%2$s) بارگذاری شد."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "رسانه \"%1$s\" (%2$s) حذف شد."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "کاربر \"%1$s\" (%2$s) ساخته شد."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "کاربر \"%1$s\" (%2$s) حذف شد."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" ساخته شد."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" به زباله‌دان منتقل شد."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" از زباله‌دان بازگردانی شد."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" بروزرسانی شد."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" برای همیشه حذف شد."
+
+msgid "Option \"%s\" was changed."
+msgstr "گزینه \"%s\" تغییر یافت."
+
+msgid "Option \"%s\" was set."
+msgstr "گزینه \"%s\" تنظیم شد."
+
+msgid "Multiple options were changed: %s."
+msgstr "چندین گزینه تغییر یافتند: %s."
+
+msgid "Bulk created"
+msgstr "ساخت دسته جمعی"
+
+msgid "Bulk updated"
+msgstr "بروزرسانی دسته جمعی"
+
+msgid "Bulk moved to trash"
+msgstr "انتقال دسته جمعی به زباله‌دان"
+
+msgid "Bulk restored from trash"
+msgstr "بازگردانی دسته جمعی از زباله‌دان"
+
+msgid "Bulk permanently deleted"
+msgstr "حذف دسته جمعی دائمی"
+
+msgid "Bulk activated"
+msgstr "فعال‌سازی دسته جمعی"
+
+msgid "Bulk deactivated"
+msgstr "غیرفعال‌سازی دسته جمعی"
+
+msgid "Bulk uploaded"
+msgstr "بارگذاری دسته جمعی"
+
+msgid "Bulk action performed on"
+msgstr "اقدام دسته جمعی روی این موارد انجام شد: "
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "نوشته"
+msgstr[1] "نوشته‌ها"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "برگه"
+msgstr[1] "برگه‌ها"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "افزونه"
+msgstr[1] "افزونه‌ها"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "کاربر"
+msgstr[1] "کاربران"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "رسانه"
+msgstr[1] "رسانه‌ها"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "چندین %s"
+
+msgid "Changes Detail"
+msgstr "جزئیات تغییرات"
+
+msgid "Field"
+msgstr "فیلد"
+
+msgid "Before"
+msgstr "قبل"
+
+msgid "After"
+msgstr "بعد"
+
+msgid "None"
+msgstr "هیچ‌کدام"
+
+msgid "Categories"
+msgstr "دسته‌ها"
+
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Confirm Deletion"
+msgstr "Confirm Deletion"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d سیاهه حذف شد."
+msgstr[1] "%d سیاهه حذف شدند."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d سیاهه یافت شد"
+msgstr[1] "%d سیاهه یافت شدند"
+

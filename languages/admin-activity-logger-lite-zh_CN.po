@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "管理员活动日志"
+
+msgid "All Users"
+msgstr "所有用户"
+
+msgid "All Events"
+msgstr "所有事件"
+
+msgid "All Objects"
+msgstr "所有对象"
+
+msgid "Search..."
+msgstr "搜索..."
+
+msgid "Filter"
+msgstr "筛选"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Export CSV"
+msgstr "导出 CSV"
+
+msgid "Clear Logs"
+msgstr "清除日志"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "No activity logs found."
+msgstr "未找到活动日志。"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Object"
+msgstr "对象"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "IP"
+msgstr "IP地址"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "您确定要删除此日志条目吗？"
+
+msgid "(system)"
+msgstr "(系统)"
+
+msgid "Log #%d Detail"
+msgstr "日志 #%d 详情"
+
+msgid "Delete this Log Entry"
+msgstr "删除此日志条目"
+
+msgid "Date/Time"
+msgstr "日期/时间"
+
+msgid "Event Type"
+msgstr "事件类型"
+
+msgid "Object ID"
+msgstr "对象 ID"
+
+msgid "Object Title"
+msgstr "对象标题"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Old Value"
+msgstr "原值"
+
+msgid "New Value"
+msgstr "新值"
+
+msgid "IP Address"
+msgstr "IP 地址"
+
+msgid "User Agent"
+msgstr "用户代理"
+
+msgid "Request URL"
+msgstr "请求 URL"
+
+msgid "[hidden]"
+msgstr "[已隐藏]"
+
+msgid "Post Created"
+msgstr "文章已创建"
+
+msgid "Post Updated"
+msgstr "文章已更新"
+
+msgid "Post Trashed"
+msgstr "文章已移至回收站"
+
+msgid "Post Restored"
+msgstr "文章已恢复"
+
+msgid "Post Deleted"
+msgstr "文章已永久删除"
+
+msgid "Page Created"
+msgstr "页面已创建"
+
+msgid "Page Updated"
+msgstr "页面已更新"
+
+msgid "Page Trashed"
+msgstr "页面已移至回收站"
+
+msgid "Page Restored"
+msgstr "页面已恢复"
+
+msgid "Page Deleted"
+msgstr "页面已永久删除"
+
+msgid "Plugin Activated"
+msgstr "插件已启用"
+
+msgid "Plugin Deactivated"
+msgstr "插件已禁用"
+
+msgid "User Created"
+msgstr "用户已创建"
+
+msgid "User Deleted"
+msgstr "用户已删除"
+
+msgid "Settings Updated"
+msgstr "设置已更新"
+
+msgid "Media Uploaded"
+msgstr "媒体已上传"
+
+msgid "Media Deleted"
+msgstr "媒体已删除"
+
+msgid "Just now"
+msgstr "刚刚"
+
+msgid "Activity Logs"
+msgstr "活动日志"
+
+msgid "Activity Logger Settings"
+msgstr "活动日志设置"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Log post create/update/delete"
+msgstr "记录文章创建/更新/删除"
+
+msgid "Log page create/update/delete"
+msgstr "记录页面创建/更新/删除"
+
+msgid "Log plugin activation/deactivation"
+msgstr "记录插件启用/禁用"
+
+msgid "Log user registration/deletion"
+msgstr "记录用户注册/删除"
+
+msgid "Log media upload/deletion"
+msgstr "记录媒体上传/删除"
+
+msgid "Log general settings updates"
+msgstr "记录常规设置更新"
+
+msgid "Keep logs for (days)"
+msgstr "日志保留天数"
+
+msgid "General Logging"
+msgstr "常规记录"
+
+msgid "Anonymize IP Addresses"
+msgstr "匿名化 IP 地址"
+
+msgid "Enable Admin Activity Logger"
+msgstr "启用管理员活动记录器"
+
+msgid "Store IP Addresses"
+msgstr "存储 IP 地址"
+
+msgid "Store User Agent"
+msgstr "存储用户代理"
+
+msgid "Show Dashboard Widget"
+msgstr "在仪表盘显示小工具"
+
+msgid "Save Settings"
+msgstr "保存设置"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Logging"
+msgstr "记录"
+
+msgid "Auto Cleanup"
+msgstr "自动清理"
+
+msgid "Keep logs for"
+msgstr "日志保留时间"
+
+msgid "Forever"
+msgstr "永久"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "插件 \"%s\" 已启用。"
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "插件 \"%s\" 已禁用。"
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "媒体 \"%1$s\" (%2$s) 已上传。"
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "媒体 \"%1$s\" (%2$s) 已删除。"
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "用户 \"%1$s\" (%2$s) 已创建。"
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "用户 \"%1$s\" (%2$s) 已删除。"
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" 已创建。"
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" 已移至回收站。"
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" 已从回收站恢复。"
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" 已更新。"
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" 已永久删除。"
+
+msgid "Option \"%s\" was changed."
+msgstr "选项 \"%s\" 已更改。"
+
+msgid "Option \"%s\" was set."
+msgstr "选项 \"%s\" 已设置。"
+
+msgid "Multiple options were changed: %s."
+msgstr "多个选项已更改: %s。"
+
+msgid "Bulk created"
+msgstr "批量创建"
+
+msgid "Bulk updated"
+msgstr "批量更新"
+
+msgid "Bulk moved to trash"
+msgstr "批量移至回收站"
+
+msgid "Bulk restored from trash"
+msgstr "批量从回收站恢复"
+
+msgid "Bulk permanently deleted"
+msgstr "批量永久删除"
+
+msgid "Bulk activated"
+msgstr "批量启用"
+
+msgid "Bulk deactivated"
+msgstr "批量禁用"
+
+msgid "Bulk uploaded"
+msgstr "批量上传"
+
+msgid "Bulk action performed on"
+msgstr "批量操作已执行于"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "文章"
+msgstr[1] "文章"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "页面"
+msgstr[1] "页面"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "插件"
+msgstr[1] "插件"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "用户"
+msgstr[1] "用户"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "媒体文件"
+msgstr[1] "媒体文件"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "多个 %s"
+
+msgid "Changes Detail"
+msgstr "变更详情"
+
+msgid "Field"
+msgstr "字段"
+
+msgid "Before"
+msgstr "修改前"
+
+msgid "After"
+msgstr "修改后"
+
+msgid "None"
+msgstr "无"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Confirm Deletion"
+msgstr "确认删除"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "已删除 %d 条日志。"
+msgstr[1] "已删除 %d 条日志。"
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "找到 %d 条日志"
+msgstr[1] "找到 %d 条日志"
+

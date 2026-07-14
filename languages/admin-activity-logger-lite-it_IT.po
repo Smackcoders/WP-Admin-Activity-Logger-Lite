@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "Registri delle attività dell\'amministratore"
+
+msgid "All Users"
+msgstr "Tutti gli utenti"
+
+msgid "All Events"
+msgstr "Tutti gli eventi"
+
+msgid "All Objects"
+msgstr "Tutti gli oggetti"
+
+msgid "Search..."
+msgstr "Cerca..."
+
+msgid "Filter"
+msgstr "Filtra"
+
+msgid "Reset"
+msgstr "Reimposta"
+
+msgid "Export CSV"
+msgstr "Esporta CSV"
+
+msgid "Clear Logs"
+msgstr "Cancella registri"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "No activity logs found."
+msgstr "Nessun registro delle attività trovato."
+
+msgid "Date"
+msgstr "Data"
+
+msgid "User"
+msgstr "Utente"
+
+msgid "Event"
+msgstr "Evento"
+
+msgid "Object"
+msgstr "Oggetto"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Actions"
+msgstr "Azioni"
+
+msgid "View"
+msgstr "Visualizza"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "Sei sicuro di voler eliminare questa voce di registro?"
+
+msgid "(system)"
+msgstr "(sistema)"
+
+msgid "Log #%d Detail"
+msgstr "Dettaglio del registro #%d"
+
+msgid "Delete this Log Entry"
+msgstr "Elimina questa voce di registro"
+
+msgid "Date/Time"
+msgstr "Data/Ora"
+
+msgid "Event Type"
+msgstr "Tipo di evento"
+
+msgid "Object ID"
+msgstr "ID dell\'oggetto"
+
+msgid "Object Title"
+msgstr "Titolo dell\'oggetto"
+
+msgid "Action"
+msgstr "Azione"
+
+msgid "Old Value"
+msgstr "Valore precedente"
+
+msgid "New Value"
+msgstr "Nuovo valore"
+
+msgid "IP Address"
+msgstr "Indirizzo IP"
+
+msgid "User Agent"
+msgstr "User Agent"
+
+msgid "Request URL"
+msgstr "URL della richiesta"
+
+msgid "[hidden]"
+msgstr "[nascosto]"
+
+msgid "Post Created"
+msgstr "Articolo creato"
+
+msgid "Post Updated"
+msgstr "Articolo aggiornato"
+
+msgid "Post Trashed"
+msgstr "Articolo spostato nel cestino"
+
+msgid "Post Restored"
+msgstr "Articolo ripristinato"
+
+msgid "Post Deleted"
+msgstr "Articolo eliminato definitivamente"
+
+msgid "Page Created"
+msgstr "Pagina creata"
+
+msgid "Page Updated"
+msgstr "Pagina aggiornata"
+
+msgid "Page Trashed"
+msgstr "Pagina spostata nel cestino"
+
+msgid "Page Restored"
+msgstr "Pagina ripristinata"
+
+msgid "Page Deleted"
+msgstr "Pagina eliminata definitivamente"
+
+msgid "Plugin Activated"
+msgstr "Plugin attivato"
+
+msgid "Plugin Deactivated"
+msgstr "Plugin disattivato"
+
+msgid "User Created"
+msgstr "Utente creato"
+
+msgid "User Deleted"
+msgstr "Utente eliminato"
+
+msgid "Settings Updated"
+msgstr "Impostazioni aggiornate"
+
+msgid "Media Uploaded"
+msgstr "File multimediale caricato"
+
+msgid "Media Deleted"
+msgstr "File multimediale eliminato"
+
+msgid "Just now"
+msgstr "Proprio ora"
+
+msgid "Activity Logs"
+msgstr "Registri delle attività"
+
+msgid "Activity Logger Settings"
+msgstr "Impostazioni del registro delle attività"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Log post create/update/delete"
+msgstr "Registra la creazione/aggiornamento/eliminazione degli articoli"
+
+msgid "Log page create/update/delete"
+msgstr "Registra la creazione/aggiornamento/eliminazione delle pagine"
+
+msgid "Log plugin activation/deactivation"
+msgstr "Registra l\'attivazione/disattivazione dei plugin"
+
+msgid "Log user registration/deletion"
+msgstr "Registra la registrazione/eliminazione degli utenti"
+
+msgid "Log media upload/deletion"
+msgstr "Registra il caricamento/eliminazione dei file multimediali"
+
+msgid "Log general settings updates"
+msgstr "Registra gli aggiornamenti delle impostazioni generali"
+
+msgid "Keep logs for (days)"
+msgstr "Conserva i registri per (giorni)"
+
+msgid "General Logging"
+msgstr "Registrazione generale"
+
+msgid "Anonymize IP Addresses"
+msgstr "Anonimizza gli indirizzi IP"
+
+msgid "Enable Admin Activity Logger"
+msgstr "Abilita il registro delle attività"
+
+msgid "Store IP Addresses"
+msgstr "Memorizza gli indirizzi IP"
+
+msgid "Store User Agent"
+msgstr "Memorizza lo User Agent"
+
+msgid "Show Dashboard Widget"
+msgstr "Mostra il widget della bacheca"
+
+msgid "Save Settings"
+msgstr "Salva impostazioni"
+
+msgid "Display"
+msgstr "Visualizzazione"
+
+msgid "Logging"
+msgstr "Registrazione"
+
+msgid "Auto Cleanup"
+msgstr "Pulizia automatica"
+
+msgid "Keep logs for"
+msgstr "Conserva i registri per"
+
+msgid "Forever"
+msgstr "Sempre"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "Il plugin \"%s\" è stato attivato."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "Il plugin \"%s\" è stato disattivato."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "Il file multimediale \"%1$s\" (%2$s) è stato caricato."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "Il file multimediale \"%1$s\" (%2$s) è stato eliminato."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "L\'utente \"%1$s\" (%2$s) è stato creato."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "L\'utente \"%1$s\" (%2$s) è stato eliminato."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" è stato creato."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" è stato spostato nel cestino."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" è stato ripristinato dal cestino."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" è stato aggiornato."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" è stato eliminato definitivamente."
+
+msgid "Option \"%s\" was changed."
+msgstr "L\'opzione \"%s\" è stata modificata."
+
+msgid "Option \"%s\" was set."
+msgstr "L\'opzione \"%s\" è stata impostata."
+
+msgid "Multiple options were changed: %s."
+msgstr "Più opzioni sono state modificate: %s."
+
+msgid "Bulk created"
+msgstr "Creato in blocco"
+
+msgid "Bulk updated"
+msgstr "Aggiornato in blocco"
+
+msgid "Bulk moved to trash"
+msgstr "Spostato nel cestino in blocco"
+
+msgid "Bulk restored from trash"
+msgstr "Ripristinato dal cestino in blocco"
+
+msgid "Bulk permanently deleted"
+msgstr "Eliminato definitivamente in blocco"
+
+msgid "Bulk activated"
+msgstr "Attivato in blocco"
+
+msgid "Bulk deactivated"
+msgstr "Disattivato in blocco"
+
+msgid "Bulk uploaded"
+msgstr "Caricato in blocco"
+
+msgid "Bulk action performed on"
+msgstr "Azione in blocco eseguita su"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "articolo"
+msgstr[1] "articoli"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "pagina"
+msgstr[1] "pagine"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "plugin"
+msgstr[1] "plugin"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "utente"
+msgstr[1] "utenti"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "file multimediale"
+msgstr[1] "file multimediali"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "Più %s"
+
+msgid "Changes Detail"
+msgstr "Dettagli modifiche"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Before"
+msgstr "Prima"
+
+msgid "After"
+msgstr "Dopo"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Categories"
+msgstr "Categorie"
+
+msgid "Tags"
+msgstr "Tag"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Confirm Deletion"
+msgstr "Conferma eliminazione"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d registro eliminato."
+msgstr[1] "%d registri eliminati."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d registro trovato"
+msgstr[1] "%d registri trovati"
+

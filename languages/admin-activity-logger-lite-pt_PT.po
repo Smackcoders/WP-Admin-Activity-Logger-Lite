@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "Registos de atividade do administrador"
+
+msgid "All Users"
+msgstr "Todos os utilizadores"
+
+msgid "All Events"
+msgstr "Todos os eventos"
+
+msgid "All Objects"
+msgstr "Todos os objetos"
+
+msgid "Search..."
+msgstr "Pesquisar..."
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Reset"
+msgstr "Limpar"
+
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+msgid "Clear Logs"
+msgstr "Limpar registos"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "No activity logs found."
+msgstr "Nenhum registo de atividade encontrado."
+
+msgid "Date"
+msgstr "Data"
+
+msgid "User"
+msgstr "Utilizador"
+
+msgid "Event"
+msgstr "Evento"
+
+msgid "Object"
+msgstr "Objeto"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "Tem a certeza de que deseja eliminar este registo?"
+
+msgid "(system)"
+msgstr "(sistema)"
+
+msgid "Log #%d Detail"
+msgstr "Detalhe do registo #%d"
+
+msgid "Delete this Log Entry"
+msgstr "Eliminar este registo"
+
+msgid "Date/Time"
+msgstr "Data/Hora"
+
+msgid "Event Type"
+msgstr "Tipo de evento"
+
+msgid "Object ID"
+msgstr "ID do objeto"
+
+msgid "Object Title"
+msgstr "Título do objeto"
+
+msgid "Action"
+msgstr "Ação"
+
+msgid "Old Value"
+msgstr "Valor antigo"
+
+msgid "New Value"
+msgstr "Valor novo"
+
+msgid "IP Address"
+msgstr "Endereço IP"
+
+msgid "User Agent"
+msgstr "User Agent"
+
+msgid "Request URL"
+msgstr "URL da requisição"
+
+msgid "[hidden]"
+msgstr "[oculto]"
+
+msgid "Post Created"
+msgstr "Artigo criado"
+
+msgid "Post Updated"
+msgstr "Artigo atualizado"
+
+msgid "Post Trashed"
+msgstr "Artigo movido para o lixo"
+
+msgid "Post Restored"
+msgstr "Artigo restaurado"
+
+msgid "Post Deleted"
+msgstr "Artigo eliminado permanentemente"
+
+msgid "Page Created"
+msgstr "Página criada"
+
+msgid "Page Updated"
+msgstr "Página atualizada"
+
+msgid "Page Trashed"
+msgstr "Página movida para o lixo"
+
+msgid "Page Restored"
+msgstr "Página restaurada"
+
+msgid "Page Deleted"
+msgstr "Página eliminada permanentemente"
+
+msgid "Plugin Activated"
+msgstr "Plugin ativado"
+
+msgid "Plugin Deactivated"
+msgstr "Plugin desativado"
+
+msgid "User Created"
+msgstr "Utilizador criado"
+
+msgid "User Deleted"
+msgstr "Utilizador eliminado"
+
+msgid "Settings Updated"
+msgstr "Definições atualizadas"
+
+msgid "Media Uploaded"
+msgstr "Ficheiro carregado"
+
+msgid "Media Deleted"
+msgstr "Ficheiro eliminado"
+
+msgid "Just now"
+msgstr "Agora mesmo"
+
+msgid "Activity Logs"
+msgstr "Registos de atividade"
+
+msgid "Activity Logger Settings"
+msgstr "Definições do registo de atividade"
+
+msgid "Settings"
+msgstr "Definições"
+
+msgid "Log post create/update/delete"
+msgstr "Registar criação/atualização/eliminação de artigos"
+
+msgid "Log page create/update/delete"
+msgstr "Registar criação/atualização/eliminação de páginas"
+
+msgid "Log plugin activation/deactivation"
+msgstr "Registar ativação/desativação de plugins"
+
+msgid "Log user registration/deletion"
+msgstr "Registar registo/eliminação de utilizadores"
+
+msgid "Log media upload/deletion"
+msgstr "Registar carregamento/eliminação de ficheiros"
+
+msgid "Log general settings updates"
+msgstr "Registar atualizações das definições gerais"
+
+msgid "Keep logs for (days)"
+msgstr "Guardar registos por (dias)"
+
+msgid "General Logging"
+msgstr "Registo geral"
+
+msgid "Anonymize IP Addresses"
+msgstr "Anonimizar endereços IP"
+
+msgid "Enable Admin Activity Logger"
+msgstr "Ativar o registo de atividade do administrador"
+
+msgid "Store IP Addresses"
+msgstr "Guardar endereços IP"
+
+msgid "Store User Agent"
+msgstr "Guardar User Agent"
+
+msgid "Show Dashboard Widget"
+msgstr "Mostrar widget no painel"
+
+msgid "Save Settings"
+msgstr "Guardar definições"
+
+msgid "Display"
+msgstr "Apresentação"
+
+msgid "Logging"
+msgstr "Registo"
+
+msgid "Auto Cleanup"
+msgstr "Limpeza automática"
+
+msgid "Keep logs for"
+msgstr "Guardar registos por"
+
+msgid "Forever"
+msgstr "Para sempre"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "O plugin \"%s\" foi ativado."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "O plugin \"%s\" foi desativado."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "O ficheiro \"%1$s\" (%2$s) foi carregado."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "O ficheiro \"%1$s\" (%2$s) foi eliminado."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "O utilizador \"%1$s\" (%2$s) foi criado."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "O utilizador \"%1$s\" (%2$s) foi eliminado."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" foi criado."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" foi movido para o lixo."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" foi restaurado do lixo."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" foi atualizado."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" foi eliminado permanentemente."
+
+msgid "Option \"%s\" was changed."
+msgstr "A opção \"%s\" foi alterada."
+
+msgid "Option \"%s\" was set."
+msgstr "A opção \"%s\" foi configurada."
+
+msgid "Multiple options were changed: %s."
+msgstr "Várias opções foram alteradas: %s."
+
+msgid "Bulk created"
+msgstr "Criado em massa"
+
+msgid "Bulk updated"
+msgstr "Atualizado em massa"
+
+msgid "Bulk moved to trash"
+msgstr "Movido para o lixo em massa"
+
+msgid "Bulk restored from trash"
+msgstr "Restaurado do lixo em massa"
+
+msgid "Bulk permanently deleted"
+msgstr "Eliminado permanentemente em massa"
+
+msgid "Bulk activated"
+msgstr "Ativado em massa"
+
+msgid "Bulk deactivated"
+msgstr "Desativado em massa"
+
+msgid "Bulk uploaded"
+msgstr "Carregado em massa"
+
+msgid "Bulk action performed on"
+msgstr "Ação em massa executada em"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "artigo"
+msgstr[1] "artigos"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "página"
+msgstr[1] "páginas"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "plugin"
+msgstr[1] "plugins"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "utilizador"
+msgstr[1] "utilizadores"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "ficheiro"
+msgstr[1] "ficheiros"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "Vários %s"
+
+msgid "Changes Detail"
+msgstr "Detalhes das alterações"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Before"
+msgstr "Antes"
+
+msgid "After"
+msgstr "Depois"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Confirm Deletion"
+msgstr "Confirm Deletion"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d registo eliminado."
+msgstr[1] "%d registos eliminados."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d registo encontrado"
+msgstr[1] "%d registos encontrados"
+

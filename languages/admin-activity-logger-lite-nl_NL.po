@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Activity Logger Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Admin Activity Logs"
+msgstr "Beheerder Activiteitenlogs"
+
+msgid "All Users"
+msgstr "Alle Gebruikers"
+
+msgid "All Events"
+msgstr "Alle Gebeurtenissen"
+
+msgid "All Objects"
+msgstr "Alle Objecten"
+
+msgid "Search..."
+msgstr "Zoeken..."
+
+msgid "Filter"
+msgstr "Filteren"
+
+msgid "Reset"
+msgstr "Resetten"
+
+msgid "Export CSV"
+msgstr "Exporteer CSV"
+
+msgid "Clear Logs"
+msgstr "Logs Wissen"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "No activity logs found."
+msgstr "Geen activiteitenlogs gevonden."
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "Event"
+msgstr "Gebeurtenis"
+
+msgid "Object"
+msgstr "Object"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "View"
+msgstr "Bekijken"
+
+msgid "Are you sure you want to delete this log entry?"
+msgstr "Weet u zeker dat u deze logregel wilt verwijderen?"
+
+msgid "(system)"
+msgstr "(systeem)"
+
+msgid "Log #%d Detail"
+msgstr "Log #%d Details"
+
+msgid "Delete this Log Entry"
+msgstr "Verwijder deze logregel"
+
+msgid "Date/Time"
+msgstr "Datum/Tijd"
+
+msgid "Event Type"
+msgstr "Type Gebeurtenis"
+
+msgid "Object ID"
+msgstr "Object ID"
+
+msgid "Object Title"
+msgstr "Object Titel"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Old Value"
+msgstr "Oude Waarde"
+
+msgid "New Value"
+msgstr "Nieuwe Waarde"
+
+msgid "IP Address"
+msgstr "IP Adres"
+
+msgid "User Agent"
+msgstr "User Agent"
+
+msgid "Request URL"
+msgstr "Aanvraag URL"
+
+msgid "[hidden]"
+msgstr "[verborgen]"
+
+msgid "Post Created"
+msgstr "Bericht Aangemaakt"
+
+msgid "Post Updated"
+msgstr "Bericht Bijgewerkt"
+
+msgid "Post Trashed"
+msgstr "Bericht Prullenbak"
+
+msgid "Post Restored"
+msgstr "Bericht Hersteld"
+
+msgid "Post Deleted"
+msgstr "Bericht Verwijderd"
+
+msgid "Page Created"
+msgstr "Pagina Aangemaakt"
+
+msgid "Page Updated"
+msgstr "Pagina Bijgewerkt"
+
+msgid "Page Trashed"
+msgstr "Pagina Prullenbak"
+
+msgid "Page Restored"
+msgstr "Pagina Hersteld"
+
+msgid "Page Deleted"
+msgstr "Pagina Verwijderd"
+
+msgid "Plugin Activated"
+msgstr "Plugin Geactiveerd"
+
+msgid "Plugin Deactivated"
+msgstr "Plugin Gedeactiveerd"
+
+msgid "User Created"
+msgstr "Gebruiker Aangemaakt"
+
+msgid "User Deleted"
+msgstr "Gebruiker Verwijderd"
+
+msgid "Settings Updated"
+msgstr "Instellingen Bijgewerkt"
+
+msgid "Media Uploaded"
+msgstr "Media Geüpload"
+
+msgid "Media Deleted"
+msgstr "Media Verwijderd"
+
+msgid "Just now"
+msgstr "Zojuist"
+
+msgid "Activity Logs"
+msgstr "Activiteitenlogs"
+
+msgid "Activity Logger Settings"
+msgstr "Activiteitenlog Instellingen"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Log post create/update/delete"
+msgstr "Log bericht aanmaken/bijwerken/verwijderen"
+
+msgid "Log page create/update/delete"
+msgstr "Log pagina aanmaken/bijwerken/verwijderen"
+
+msgid "Log plugin activation/deactivation"
+msgstr "Log plugin activeren/deactiveren"
+
+msgid "Log user registration/deletion"
+msgstr "Log gebruiker registreren/verwijderen"
+
+msgid "Log media upload/deletion"
+msgstr "Log media uploaden/verwijderen"
+
+msgid "Log general settings updates"
+msgstr "Log algemene instellingen updates"
+
+msgid "Keep logs for (days)"
+msgstr "Bewaar logs voor (dagen)"
+
+msgid "General Logging"
+msgstr "Algemene Loggegevens"
+
+msgid "Anonymize IP Addresses"
+msgstr "Anonymiseer IP-adressen"
+
+msgid "Enable Admin Activity Logger"
+msgstr "Schakel beheerderactiviteitenlogger in"
+
+msgid "Store IP Addresses"
+msgstr "IP-adressen opslaan"
+
+msgid "Store User Agent"
+msgstr "User Agent opslaan"
+
+msgid "Show Dashboard Widget"
+msgstr "Toon Dashboard Widget"
+
+msgid "Save Settings"
+msgstr "Instellingen Opslaan"
+
+msgid "Display"
+msgstr "Weergave"
+
+msgid "Logging"
+msgstr "Loggen"
+
+msgid "Auto Cleanup"
+msgstr "Automatische Opschoning"
+
+msgid "Keep logs for"
+msgstr "Bewaar logs voor"
+
+msgid "Forever"
+msgstr "Voor altijd"
+
+msgid "Plugin \"%s\" was activated."
+msgstr "Plugin \"%s\" is geactiveerd."
+
+msgid "Plugin \"%s\" was deactivated."
+msgstr "Plugin \"%s\" is gedeactiveerd."
+
+msgid "Media \"%1$s\" (%2$s) was uploaded."
+msgstr "Media \"%1$s\" (%2$s) is geüpload."
+
+msgid "Media \"%1$s\" (%2$s) was deleted."
+msgstr "Media \"%1$s\" (%2$s) is verwijderd."
+
+msgid "User \"%1$s\" (%2$s) was created."
+msgstr "Gebruiker \"%1$s\" (%2$s) is aangemaakt."
+
+msgid "User \"%1$s\" (%2$s) was deleted."
+msgstr "Gebruiker \"%1$s\" (%2$s) is verwijderd."
+
+msgid "%1$s \"%2$s\" was created."
+msgstr "%1$s \"%2$s\" is aangemaakt."
+
+msgid "%1$s \"%2$s\" was moved to trash."
+msgstr "%1$s \"%2$s\" is naar de prullenbak verplaatst."
+
+msgid "%1$s \"%2$s\" was restored from trash."
+msgstr "%1$s \"%2$s\" is hersteld uit de prullenbak."
+
+msgid "%1$s \"%2$s\" was updated."
+msgstr "%1$s \"%2$s\" is bijgewerkt."
+
+msgid "%1$s \"%2$s\" was permanently deleted."
+msgstr "%1$s \"%2$s\" is definitief verwijderd."
+
+msgid "Option \"%s\" was changed."
+msgstr "Optie \"%s\" is gewijzigd."
+
+msgid "Option \"%s\" was set."
+msgstr "Optie \"%s\" is ingesteld."
+
+msgid "Multiple options were changed: %s."
+msgstr "Meerdere opties zijn gewijzigd: %s."
+
+msgid "Bulk created"
+msgstr "Bulk aangemaakt"
+
+msgid "Bulk updated"
+msgstr "Bulk bijgewerkt"
+
+msgid "Bulk moved to trash"
+msgstr "Bulk verplaatst naar prullenbak"
+
+msgid "Bulk restored from trash"
+msgstr "Bulk hersteld uit prullenbak"
+
+msgid "Bulk permanently deleted"
+msgstr "Bulk definitief verwijderd"
+
+msgid "Bulk activated"
+msgstr "Bulk geactiveerd"
+
+msgid "Bulk deactivated"
+msgstr "Bulk gedeactiveerd"
+
+msgid "Bulk uploaded"
+msgstr "Bulk geüpload"
+
+msgid "Bulk action performed on"
+msgstr "Bulkactie uitgevoerd op"
+
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "bericht"
+msgstr[1] "berichten"
+
+msgid "page"
+msgid_plural "pages"
+msgstr[0] "pagina"
+msgstr[1] "pagina's"
+
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] "plugin"
+msgstr[1] "plugins"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "gebruiker"
+msgstr[1] "gebruikers"
+
+msgid "media item"
+msgid_plural "media items"
+msgstr[0] "mediabestand"
+msgstr[1] "mediabestanden"
+
+msgid "%1$s %2$d %3$s: %4$s."
+msgstr "%1$s %2$d %3$s: %4$s."
+
+msgid "Multiple %s"
+msgstr "Meerdere %s"
+
+msgid "Changes Detail"
+msgstr "Wijzigingsdetails"
+
+msgid "Field"
+msgstr "Veld"
+
+msgid "Before"
+msgstr "Voor"
+
+msgid "After"
+msgstr "Na"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Confirm Deletion"
+msgstr "Verwijdering bevestigen"
+
+msgid "%d log deleted."
+msgid_plural "%d logs deleted."
+msgstr[0] "%d log verwijderd."
+msgstr[1] "%d logs verwijderd."
+
+msgid "%d log found"
+msgid_plural "%d logs found"
+msgstr[0] "%d log gevonden"
+msgstr[1] "%d logs gevonden"
+
